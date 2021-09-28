@@ -1,0 +1,20 @@
+{
+  "name": "ebook2speech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^15.0.0"
+  },
+  "dependencies": {
+    "say": "^0.16.0",
+    "tesseract.js": "^2.1.5",
+    "utf8": "^3.0.0"
+  }
+}
